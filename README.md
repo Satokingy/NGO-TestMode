@@ -4,6 +4,7 @@ NEEDY GIRL OVERDOSEでテストモードに入るためのメモ
 
 ## 注意
 全エンディングなどが見られてしまうため、必ずゲームをクリアしてから改造を行ってください。
+また、テストモードで遊んでいるところをSNSなどにアップロードしないでください。
 
 ### やり方
 dnspyで「NEEDY GIRL OVERDOSE\Windose_Data\Managed\Assembly-CSharp.dll」を開く。バックアップを取るといつでも元のファイルに戻せるのでおすすめ
