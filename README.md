@@ -1,5 +1,6 @@
 # NGO-TestMode
 NEEDY GIRL OVERDOSEでテストモードに入るためのメモ
+![test](https://github.com/Satokingy/NGO-TestMode/assets/66546019/e3c70aec-60e5-462b-bf79-57989bfd4e37)
 
 ## 注意
 全エンディングなどが見られてしまうため、必ずゲームをクリアしてから改造を行ってください。
