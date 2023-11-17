@@ -3,12 +3,12 @@ NEEDY GIRL OVERDOSEでテストモードに入るためのメモ
 ![test](https://github.com/Satokingy/NGO-TestMode/assets/66546019/2f43a962-549e-4bd4-bd2c-f9a4710d2b50.png)
 
 ## 注意
-全エンディングなどが見られてしまうため、必ずゲームをクリアしてから改造を行ってください。
+全エンディングなどが見られてしまうため、必ずゲームをクリアしてから改造を行ってください。<br>
 また、テストモードで遊んでいるところをSNSなどにアップロードしないでください。
 
 ### やり方
-dnspyで「NEEDY GIRL OVERDOSE\Windose_Data\Managed\Assembly-CSharp.dll」を開く。バックアップを取るといつでも元のファイルに戻せるのでおすすめ
-ngov3.Bootで検索をかけて上にあるpublic void Awake()で右クリックしてEdit Method
+dnspyで「NEEDY GIRL OVERDOSE\Windose_Data\Managed\Assembly-CSharp.dll」を開く。バックアップを取るといつでも元のファイルに戻せるのでおすすめ<br>
+ngov3.Bootで検索をかけて上にあるpublic void Awake()で右クリックしてEdit Method<br>
 
 ```
 using System;
@@ -34,6 +34,6 @@ namespace ngov3
 	}
 }
 ```
-次のように編集
-Compileを押してFile→Save All→OK で完了。
+次のように編集<br>
+Compileを押してFile→Save All→OK で完了。<br>
 後は普通にゲームを起動するだけ
